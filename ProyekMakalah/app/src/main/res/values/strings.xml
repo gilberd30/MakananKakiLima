@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PKTI (MAKALA)</string>
+    <string name="pasword">Pasword</string>
+    <string name="repasword">Re-type Pasword</string>
+    <string name="userName">User Name</string>
+    <string name="atau">Atau</string>
+    <string name="login">LOGIN</string>
+    <string name="alamat">Alamat</string>
+    <string name="register">REGISTER</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="promo">Sambut liburang akhir tahun</string>
+</resources>

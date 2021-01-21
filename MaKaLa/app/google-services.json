@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "485728153025",
+    "project_id": "makala-91102",
+    "storage_bucket": "makala-91102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485728153025:android:6d33c6abce6194ecc0d340",
+        "android_client_info": {
+          "package_name": "com.aplikasi.makala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485728153025-uu5fkjcqh3b2imgddhh3oq8sg4r8rcil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aplikasi.makala",
+            "certificate_hash": "6656977b8f31920d71c98c23a8ec5e9bc55851a3"
+          }
+        },
+        {
+          "client_id": "485728153025-u0d6ae8t440g6fop2grplvkfsrntm72f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvx2IwjJNK1UwnpfD36Uk9YAjNDxV9dgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485728153025-u0d6ae8t440g6fop2grplvkfsrntm72f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

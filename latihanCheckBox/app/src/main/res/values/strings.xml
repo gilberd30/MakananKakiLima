@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">latihanCheckBox</string>
+    <string-array name="negara">
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Green</item>
+    </string-array>
+</resources>

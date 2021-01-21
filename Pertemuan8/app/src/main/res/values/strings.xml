@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Pertemuan8</string>
+    <string name="judul">38 \Tim Esport Siap Berlaga Di Kratingdaeng Indonesia E-Sports Championship 2018</string>​
+    <string name="sub_judul"><b>Advertorial, Jurnalis</b>.<i>Kamis 06 September 2018</i><u>\n 17:28 WIB</u></string>​
+    <string name="isi"> Tampilan Bergulir dan Teks Satu objek View yang sering Anda gunakan adalah kelas TextView.
+TextView merupakan subkelas dari kelas View yang digunakan untuk menampilkan informasi tekstual pada layar.
+TextView dapat digunakan untuk menampilkan pesan, respons dari database, mulai dari sebuah karakter atau kata tunggal hingga teks penuh.
+Dalam aplikasi, TextView dapat berisikan artikel majalah atau koran, artikel yang muncul mungkin berasal dari sumber online atau mungkin yang telah  disimpan sebelumnya dalam database di perangkat, dan teks sebagai satu string panjang di sumber daya strings.xml.
+TextView dapat dikontrol mengunakan atribut XML, seperti untuk:
+Memosisikan TextView di layout (seperti tampilan lainnya)
+Cara munculnya tampilan itu sendiri, misalnya dengan warna latar belakang
+Seperti apa teks yang terlihat dalam tampilan, misalnya untuk gaya, ukuran, dan warnanya
+Atribut yang paling sering digunakan bersama TextView adalah sebagai berikut:
+android:id identitas unik yang mengidentifikasi objek
+android:text  Menyetel teks yang akan ditampilkan.
+android:textColor Menyetel warna teks menggunakan nilai warna
+android:textAppearance: Penampilan teks, termasuk warna, jenis huruf, gaya, dan ukurannya. (gaya dan tema)
+android:textSize: Menyetel ukuran teks (jika belum disetel melalui android:textAppearance ). Gunakan ukuran sp atau dp
+android:textStyle: Menyetel gaya teks (jika belum disetel melalui android:textAppearance ). Nilainya berupa normal , bold , italic , atau bold | italic .
+Android:typeface: Menyetel jenis huruf teks (jika belum disetel melalui android:textAppearance ). Gunakan normal ,sans , serif , atau monospace .
+android:lineSpacingExtra: Menyetel spasi tambahan antar baris teks. Gunakan ukuran sp atau dp
+android:autoLink: Mengontrol apakah tautan seperti URL dan alamat email yang secara otomatis ditemukan untuk diubah ke tautan yang dapat diklik (dapat disentuh). Gunakan salah satu dari berikut ini:
+none : Tidak ada pola yang cocok (default).
+web : Cocok dengan URL web.
+email : Cocok dengan alamat email.
+phone : Cocok dengan nomor telepon.
+map : Cocok dengan alamat peta.
+all : Cocok dengan semua pola (setara dengan web |email |telepon |peta).
+</string>
+
+</resources>
